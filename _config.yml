@@ -53,3 +53,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+header:
+  pages:
+    - name: Home
+      slug: /     # <-- index.md
+    - name: Education  # <-- blog.md
+    - name: Publications  # <-- whatever.md
