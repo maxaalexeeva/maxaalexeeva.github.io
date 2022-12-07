@@ -1,3 +1,4 @@
+<link rel="shortcut icon" href="#">
 ---
 layout: page
 title: About
