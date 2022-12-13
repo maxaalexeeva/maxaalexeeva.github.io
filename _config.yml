@@ -30,7 +30,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: bay_jekyll_theme
 plugins:
   - jekyll-feed
 
@@ -53,3 +53,25 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+header:
+  pages:
+    - name: Home
+      slug: /     # <-- index.md
+    - name: Blog  # <-- blog.md
+    - name: Publications  # <-- publications.md
+    - name: CV  # <-- whatever.md
+
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: maxaalexeeva-at-gmail-dot-com
+      link: mailto:maxaalexeeva@gmail.com
+    - name: Email
+      value: alexeeva-at-arizona-dot-edu
+      link: mailto:alexeeva@arizona.edu
+  follow:
+    - name: LinkedIn
+      link: https://www.linkedin.com/in/mariaalexeevaling/
+    - name: GitHub
+      link: https://github.com/maxaalexeeva
