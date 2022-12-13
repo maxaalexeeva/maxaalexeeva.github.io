@@ -4,9 +4,9 @@ title: Contact
 slug: /contact
 ---
 
-Personal email: maxaalexeeva at gmail dot com
+**Personal email:** maxaalexeeva at gmail dot com
 
-University email: alexeeva at arizona dot edu
+**University email:** alexeeva at arizona dot edu
 
 [LinkedIn](https://www.linkedin.com/in/mariaalexeevaling/)
 
