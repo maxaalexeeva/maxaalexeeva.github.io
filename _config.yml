@@ -60,6 +60,7 @@ header:
     # - name: Blog  # <-- blog.md
     - name: Publications  # <-- publications.md
     - name: CV  # <-- whatever.md
+    - name: Presentations
     - name: Contact
 #
 # footer:
