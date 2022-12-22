@@ -58,22 +58,23 @@ header:
     - name: Home
       slug: /     # <-- index.md
     # - name: Blog  # <-- blog.md
+    - name: Employment  # <-- publications.md
     - name: Publications  # <-- publications.md
     - name: CV  # <-- whatever.md
     - name: Presentations
     - name: Contact
 #
-# footer:
-#   show_powered_by: true
-#   contact:
-#     - name: Email
-#       value: maxaalexeeva-at-gmail-dot-com
-#       link: mailto:maxaalexeeva@gmail.com
-#     - name: Email
-#       value: alexeeva-at-arizona-dot-edu
-#       link: mailto:alexeeva@arizona.edu
-#   follow:
-#     - name: LinkedIn
-#       link: https://www.linkedin.com/in/mariaalexeevaling/
-#     - name: GitHub
-#       link: https://github.com/maxaalexeeva
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: maxaalexeeva-at-gmail-dot-com
+      link: mailto:maxaalexeeva@gmail.com
+    - name: Email
+      value: alexeeva-at-arizona-dot-edu
+      link: mailto:alexeeva@arizona.edu
+  follow:
+    - name: LinkedIn
+      link: https://www.linkedin.com/in/mariaalexeevaling/
+    - name: GitHub
+      link: https://github.com/maxaalexeeva
