@@ -26,7 +26,6 @@ slug: /employment
 
 ### Supervised by Dr. R. Sharp, Dr. C. Morrison
 
-- Contributed to the AutoMATES project under the DARPA Automating Scientific Knowledge Extraction (ASKE) program
 - Led the development of the automatic [text reading pipeline](https://aclanthology.org/2020.lrec-1.269/) (the [AutoMATES project](https://github.com/ml4ai/automates), the DARPA Automating Scientific Knowledge Extraction (ASKE) program)
 - Contributed to planning and conducting annotation exercises
 - Provided mentoring to a junior RA
@@ -36,8 +35,8 @@ slug: /employment
 
 ### 2020--present
 
-- Contributed to a project under DARPA Causal Exploration program
 - Working on a variety of NLP-related tasks, which include using, modifying, and evaluating in-house tools, data annotation, and error analysis
+- Current project: rule-based information extraction from spoken interview transcripts in the agronomy domain
 
 
 ## NLP Intern,  Crane AI, New York City, NY
