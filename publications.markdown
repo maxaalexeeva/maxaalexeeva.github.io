@@ -6,6 +6,10 @@ slug: /publications
 
 ## Peer-reviewed
 
+**Alexeeva, Maria**, Caroline Campbell Hyland, Keith Alcock, Allegra A. Beal Cohen, Hubert Kanyamahanga,
+Isaac Kobby Anni, Mihai Surdeanu. “Annotating and Training for Population Subjective Views.” 13th
+Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis. 2023. 
+
 **Alexeeva, Maria**, Allegra A. Beal, and Mihai Surdeanu. [Combining Extraction and Generation for
 Constructing Belief-Consequence Causal Links.](https://aclanthology.org/2022.insights-1.22/) Proceedings of the Third Workshop on Insights from Negative
 Results in NLP. 2022.

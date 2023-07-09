@@ -8,4 +8,4 @@ slug: /cv
 
 ***
 
-<iframe src="https://maxaalexeeva.github.io/files/alexeeva-resume-dec7-2022.pdf#navpanes=0" height="600" width="100%"></iframe>
+<iframe src="https://maxaalexeeva.github.io/files/alexeeva_resume_july8-2023.pdf#navpanes=0" height="600" width="100%"></iframe>
