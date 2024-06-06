@@ -9,5 +9,3 @@ slug: /cv
 ***
 
 <iframe src="https://maxaalexeeva.github.io/files/alexeeva-resume-2024-06-05.pdf#navpanes=0" height="600" width="100%"></iframe>
-
-<iframe src="https://maxaalexeeva.github.io/files/alexeeva-wassa2023-poster.pdf#navpanes=0" height="600" width="100%"></iframe>
