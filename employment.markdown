@@ -13,7 +13,7 @@ slug: /employment
 - Present:
 
 
-  - Serving as a key researcher and developer for the [HEURISTICS project](https://github.com/clulab/habitus) under the DARPA Habitus program, working on neuro-symbolic information extraction systems,  with the tasks including data collection, rule-based extraction, model training, and large-language model (LLM) fine-tuning and output evaluation in the agronomy domain
+  - Serving as a key researcher and developer for the [HEURISTICS project](https://github.com/clulab/habitus) under the DARPA Habitus program, working on neuro-symbolic information extraction systems,  with the tasks including data collection, rule-based extraction, model training, and large-language model (LLM) fine-tuning and output evaluation
   - Developing datasets: defining tasks, preparing annotation guidelines and training materials, collecting annotations using crowdsourcing and in-house annotation, and conducting quality
 control
   - Providing onboarding and mentorship support to junior researchers
@@ -29,9 +29,9 @@ control
 
 ## NLP Engineer Consultant, Lum AI, Tucson, AZ
 
-### 2020--present
+### 2020--July 2023
 
-- Working on a variety of NLP-related tasks, which include using, modifying, and evaluating in-house tools, data annotation, and error analysis
+- Worked on a variety of NLP-related tasks, which include using, modifying, and evaluating in-house tools, data annotation, and error analysis
 - Latest project: rule-based information extraction from spoken interview transcripts in the agronomy domain
 
 
